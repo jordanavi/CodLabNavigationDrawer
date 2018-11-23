@@ -18,9 +18,8 @@
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
         android:paddingTop="@dimen/nav_header_vertical_spacing"
-        android:text="Angoti Studio"
-        android:textAppearance=
-            "@style/TextAppearance.AppCompat.Body1"
+        android:text="Jordana Studio"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         android:textColor="@android:color/background_light"
         android:textSize="18sp"
         android:textStyle="bold" />
@@ -30,7 +29,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
-        android:text="angoti@iftm.edu.br"
+        android:text="jordanavilela01@gmail.com"
         android:textColor="@android:color/background_light"
         android:textSize="18sp"
         android:textStyle="bold" />
